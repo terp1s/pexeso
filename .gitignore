@@ -1,0 +1,12 @@
+# Ignorování složek bin a obj (build výstupy)
+[Bb]in/
+[Oo]bj/
+
+# Ignorování dočasných souborů IDE
+.vs/
+.idea/
+*.user
+
+# Ignorování souborů systému
+.DS_Store
+Thumbs.db
